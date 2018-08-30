@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled" : true,
+    "python.pythonPath": "/home/anees/.local/share/virtualenvs/crypto-realm-66Ncn4Ck/bin/python",
+    "python.linting.flake8Path": "/home/anees/.local/share/virtualenvs/crypto-realm-66Ncn4Ck/bin/flake8",
+    "python.linting.flake8Args": ["--ignore=E501"]
+}
